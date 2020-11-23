@@ -5,8 +5,8 @@ To install ceedling
 $ gem install ceedling
 
 Creating a project
-$ ceedling new <project name>
-$ ceedling new –local <project name>
+$ ceedling new projectname
+$ ceedling new –local projectname
 
 To build test apps,
 $ rake test:all
